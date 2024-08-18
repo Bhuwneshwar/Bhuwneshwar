@@ -18,9 +18,10 @@ Welcome to my GitHub profile! I'm an aspiring **Software Engineer** from India w
 - **Hackathons**: Always up for a challenge and looking forward to teaming up for hackathons.
 
 ## 📫 How to Reach Me
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **Email**: [krabi6563@gmail.com](mailto:krabi6563@gmail.com)
+- **LinkedIn**: [linkedin.com/in/Bhuwneshwar Mandal](www.linkedin.com/in/bhuwneshwar-mandal-218945252)
 - **Twitter**: [twitter.com/your-handle](https://twitter.com/your-handle)
+- **Website**: [rebyb-portfolio](https://rebyb-portfolio-private.onrender.com)
 
 <!---
 Bhuwneshwar/Bhuwneshwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
