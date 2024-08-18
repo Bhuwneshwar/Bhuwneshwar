@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm an aspiring **Software Engineer** from India w
 - **Email**: [krabi6563@gmail.com](mailto:krabi6563@gmail.com)
 - **LinkedIn**: [linkedin.com/in/Bhuwneshwar Mandal](www.linkedin.com/in/bhuwneshwar-mandal-218945252)
 - **Twitter**: [twitter.com/your-handle](https://twitter.com/your-handle)
-- **Website**: [rebyb-portfolio](https://rebyb-portfolio-private.onrender.com)
+- **Website**: [rebyb-portfolio](https://portfolio-private.onrender.com/)
 
 <!---
 Bhuwneshwar/Bhuwneshwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
